@@ -1,5 +1,5 @@
 {
-    "name": "@trumandu/social-screeshots",
+    "name": "toolkit-social-screeshots",
     "version": "0.0.1",
     "description": "美化截图",
     "main": "index.html",

@@ -1,0 +1,16 @@
+{
+    "pluginName": "social-screeshots",
+    "version": "0.0.1",
+    "description": "美化截图",
+    "keywords": [
+        "美化截图",
+        "screeshots"
+    ],
+    "entry": "https://socialscreenshots.com/editor",
+    "pluginType": "ui",
+    "mode": "multi",
+    "logo": "./social-screenshots.ico",
+    "webContainer": false,
+    "author": "TrumanDu",
+    "homepage": "https://github.com/app-toolkit/toolkit-cli"
+}
